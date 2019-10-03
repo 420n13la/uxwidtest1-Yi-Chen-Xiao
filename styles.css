@@ -1,0 +1,20 @@
+body{
+	font-family: Helvetica, sans-serif;
+	background-image: pattern.png;
+}
+div.wrapper{
+	width: 77%;
+	max-width: 77%;
+	center
+	border-bottom: 33%;
+	border-top: 33%;
+	background-color: whitesmoke;
+}
+div.frame{
+	height: 470px;
+	background-image: pattern.png;
+}
+div.photo{
+	width: 100%;
+	height: 100%;
+}
